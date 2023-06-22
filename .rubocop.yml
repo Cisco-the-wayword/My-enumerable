@@ -10,8 +10,6 @@ AllCops:
 Layout/LineLength:
   Max: 120
 Layout/EndOfLine:
-  EnforcedStyle: consistent
-  SupportedStyles: consistent_with_file
   SupportedLineEndings: LF
 Metrics/MethodLength:
   Max: 20
