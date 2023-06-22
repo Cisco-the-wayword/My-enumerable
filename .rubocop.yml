@@ -16,12 +16,9 @@ Metrics/AbcSize:
 Metrics/ClassLength:
   Max: 150
 Metrics/BlockLength:
-  Exclude:
-    - 'path/to/excluded/file.rb'
+  Max: 30
   AllowedMethods:
-    - allowed_method_name
-
-
+    - describe
 
 Style/Documentation:
   Enabled: false
