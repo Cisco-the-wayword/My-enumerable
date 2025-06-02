@@ -16,3 +16,9 @@ states = {
   'Florida' => 'FL',
   'Illinois' => 'IL'
 }
+
+puts states['California'] # Outputs 'CA'
+puts states['Texas'] # Outputs 'TX'
+puts states['Florida'] # Outputs 'FL'
+puts states['New York'] # Outputs 'NY'
+puts states['Illinois'] # Outputs 'IL'
